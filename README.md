@@ -17,7 +17,7 @@
 
 
 
-### I am a Web Developer
+### I'm a Web Developer
 - 💻 Founder Of @ <a href="https://barbarosbilisim.com">Barbaros Bilişim </a>
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2023 Goals: Contribute to Open Source projects
